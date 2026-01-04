@@ -1,0 +1,4 @@
+cd C:\Users\Lenovo\Documents\programing\musicPlayer\my-electron-app
+
+
+npm start

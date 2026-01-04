@@ -1,0 +1,26 @@
+{
+  "name": "my-electron-app",
+  "version": "1.0.0",
+  "description": "A music player built with Electron",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "dev": "electron . --dev",
+    "build": "electron-builder"
+  },
+  "keywords": [
+    "electron",
+    "music",
+    "player"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^28.0.0",
+    "electron-builder": "^24.9.1"
+  },
+  "dependencies": {
+    "music-metadata": "^9.0.0",
+    "node-vibrant": "^3.1.6"
+  }
+}
