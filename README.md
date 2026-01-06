@@ -46,22 +46,13 @@ npm start
 
 ---
 
-## Project Status
-
-**Status:** Maintenance Mode  
-**Current Version:** v1.1.0  
-**Last Updated:** January 2026
-
-This project is functionally complete and not under active development. Bug fixes or minor updates may be applied as needed.
-
----
-
 ## Future Plans
 
 If the project is revisited, planned improvements include:
 
 - More reliable and stable music library storage format
 - Neural network-based automatic song selection that learns listening patterns and selects the next track based on contextual parameters
+- Docker support
 
 These features are exploratory and not currently in development.
 
@@ -71,6 +62,18 @@ These features are exploratory and not currently in development.
 
 ⚠️ **Audio Format Compatibility:**  
 This player has been primarily tested with **MP3 format**. While other audio formats may be supported by Electron's underlying media engine, they have not been thoroughly tested and may behave unexpectedly.
+
+---
+
+## Project Status
+
+**Status:** Maintenance Mode  
+**Current Version:** v1.1.0  
+**Last Updated:** January 2026
+
+This project is functionally complete and not under active development. Bug fixes or minor updates may be applied as needed.
+
+---
 
 🎵 **Music files are not included** in this repository due to copyright considerations.
 
